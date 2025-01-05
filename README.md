@@ -1,7 +1,10 @@
-# Projet Data Lake - Architecture Medallion
+# Projet Data Lake Analayse des données des plateformes de streaming musicales- Architecture Medallion
 
 ## Composition du groupe 1 
 Louis ROCCA, Nicolas BELLANGER, Yanis ARAR
+
+## Contexte et motivation
+L'industrie du streaming musical est en constante évolution. Les plateformes telles que Spotify, Apple Music et YouTube Music jouent un rôle essentiel dans la diffusion de la musique auprès de millions d'utilisateurs. Analyser leurs données permet de comprendre les préférences des utilisateurs, de suivre les artistes et genres populaires, et d'anticiper les futures tendances.
 
 ## Description
 
