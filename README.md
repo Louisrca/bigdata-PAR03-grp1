@@ -32,6 +32,6 @@ Librairie Maven : org.apache.iceberg:iceberg-spark-runtime-3.2_2.12:1.3.1
 
 ## Utilisation
 
-1. Importer les notebooks HTML dans votre workspace Databricks
+1. Importer les notebooks au format DBC dans votre workspace Databricks
 2. Configurer le cluster avec la librairie Iceberg
 3. Exécuter les notebooks dans l'ordre : Bronze → Silver → Gold
